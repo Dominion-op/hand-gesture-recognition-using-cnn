@@ -1,6 +1,6 @@
 # Hand-gesture-recognition-using-cnn
 
-📘 Project: Hand Gesture Recognition using CNN (LeapGestRecog Dataset)
+ Project: Hand Gesture Recognition using CNN (LeapGestRecog Dataset)
 
 🔹 Introduction
 
